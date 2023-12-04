@@ -10,6 +10,6 @@ https://instagram.com/luhh_aline?igshid=OGQ5ZDc2ODk2ZA==
 
 
 <br/>
-<img aling="center" alt="C"
-src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img aling="center" alt="Java Script"
+src="https://img.shields.io/badge/Javascript-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
