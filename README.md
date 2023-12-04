@@ -1,10 +1,10 @@
 # LuineCorreia 
 
-### olá! eu sou Luíne Aline Correia 👋
+### olá! eu sou LuineCorreia 👋
 
-[![Instagram](https://instagram.com/luhh_aline?igshid=OGQ5ZDc2ODk2ZA==)
+https://instagram.com/luhh_aline?igshid=OGQ5ZDc2ODk2ZA==
 
-![LuineCorreia GitHub stats](https://github-readme-stats.vercel.app/api?username=LuineCorreia855&show_icons=true&theme=radical)
+![LuineCorreia GitHub stats](https://github-readme-stats.vercel.app/api?username=LuineCorreia&show_icons=true&theme=radical)
 
 ## Tecnologia que eu uso no meu dia
 
