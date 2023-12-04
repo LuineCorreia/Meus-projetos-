@@ -11,5 +11,5 @@ https://instagram.com/luhh_aline?igshid=OGQ5ZDc2ODk2ZA==
 <div style ="display: inline_block">
 <br/>
 <img aling="center" alt="Java"
-src="https://img.shields.io/badge/Java-00599Java?style=for-the-badge&logo=c&logoColor=white"/>
+src="https://img.shields.io/badge/Java-00599Java?style=for-the-badge&logo=Java&logoColor=white"/>
 </div>
