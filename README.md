@@ -9,6 +9,10 @@ https://instagram.com/luhh_aline?igshid=OGQ5ZDc2ODk2ZA==
 ## Tipo de tecnologia que eu uso no meu dia a dia
 
   
-<br/>
-<img aling="center" alt="Java script"
-src=https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=white
+html
+<div style="display: inline-block">
+    <br/>
+    <img align="center" alt="JavaScript"
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+```
