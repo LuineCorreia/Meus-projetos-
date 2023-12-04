@@ -11,5 +11,4 @@ https://instagram.com/luhh_aline?igshid=OGQ5ZDc2ODk2ZA==
   
 <br/>
 <img aling="center" alt="Java script"
-src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=white"/>
-</div> 
+src=https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=white
