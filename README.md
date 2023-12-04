@@ -11,6 +11,6 @@ https://instagram.com/luhh_aline?igshid=OGQ5ZDc2ODk2ZA==
   
 <div style ="display: inline_block">
 <br/>
-<img aling="center" alt="Java"
+<img aling="center" alt="A+"
 src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=white"/>
 </div>
